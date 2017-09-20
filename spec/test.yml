@@ -1,0 +1,6 @@
+mask:
+  users:
+    email: :email
+    name: :name
+    ssn:
+truncate: [sensitive_table]
